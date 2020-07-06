@@ -94,6 +94,9 @@ https://daveceddia.com/react-redux-immutability-guide/
 ### Nice Example better than everything else [REDUX, REACT, SAGA]...
 https://github.com/wtjs/what-the-splash
 
+### React-Redux - crud example - how to update without manipulating the state...***
+https://codeburst.io/redux-a-crud-example-abb834d763c9
+
 ### How to perform the axios call in the saga for a get Method...
 https://stackoverflow.com/questions/52219839/how-to-pass-urls-params-headers-to-call-in-redux-saga
 
