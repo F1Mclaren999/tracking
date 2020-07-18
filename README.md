@@ -115,3 +115,5 @@ https://codesandbox.io/s/4xlrs?file=/demo.js    - Scroll Paper, Scroll Body
 1) To enable the application in other browsers, you have to disable the dev tools...
 https://github.com/reduxjs/redux/issues/2359 
 
+#### Fastest way to filter the data in js [Comparison chart]
+https://medium.com/javascript-in-plain-english/how-to-remove-a-specific-item-from-an-array-in-javascript-a49b108404c
